@@ -1,0 +1,17 @@
+.registration {
+  margin: 100px 350px;
+  background-color: rgb(235, 230, 230);
+  padding: 40px;
+  text-align: center;
+}
+.submitbtn {
+  margin-top: 30px;
+}
+.icons {
+  padding: 10px 10px;
+}
+@media only screen and (max-width: 600px) {
+  .registration {
+    margin: 30px 30px;
+  }
+}
